@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "database_role",
+    "password": "database_password",
+    "database": "seqTest",
+    "host": "172.26.0.2",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "database_role",
+    "password": "database_password",
+    "database": "seqTest",
+    "host": "172.26.0.2",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "database_role",
+    "password": "database_password",
+    "database": "seqTest",
+    "host": "172.26.0.2",
+    "dialect": "postgres"
+  }
+}
